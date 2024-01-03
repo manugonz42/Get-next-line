@@ -12,7 +12,7 @@ Get Next Line is a project at 42 that focuses on reading a line from a file desc
 ## Usage
 Clone the repository
 ```bash
-git clone https://github.com/your_username/get_next_line.git
+git clone https://github.com/your_username/Get_next_line.git
 ```
 Use the function in your own projects by including the files.
 
